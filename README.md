@@ -1,2 +1,0 @@
-# supportFR
-Brandsupply Support FR
