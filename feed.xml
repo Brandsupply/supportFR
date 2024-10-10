@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Brandsupply Support FR</title>
-    <link href="https://brandsupply.github.io/supportFR/feed.xml" rel="self" />
-    <link href="https://brandsupply.github.io/supportFR" />
+    <link href="https://support.brandsupply.fr/feed.xml" rel="self" />
+    <link href="https://support.brandsupply.fr" />
     <updated>2024-10-09T12:14:14+02:00</updated>
     <author>
         <name>Matt</name>
     </author>
-    <id>https://brandsupply.github.io/supportFR</id>
+    <id>https://support.brandsupply.fr</id>
 
     <entry>
         <title>Qu&#x27;en est-il des impôts?</title>
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/hoe-zit-het-met-belasting.html"/>
-        <id>https://brandsupply.github.io/supportFR/hoe-zit-het-met-belasting.html</id>
+        <link href="https://support.brandsupply.fr/hoe-zit-het-met-belasting.html"/>
+        <id>https://support.brandsupply.fr/hoe-zit-het-met-belasting.html</id>
             <category term="Financier"/>
             <category term="Clients"/>
 
@@ -36,8 +36,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/welke-betaalmethoden-biedt-brandsupply.html"/>
-        <id>https://brandsupply.github.io/supportFR/welke-betaalmethoden-biedt-brandsupply.html</id>
+        <link href="https://support.brandsupply.fr/welke-betaalmethoden-biedt-brandsupply.html"/>
+        <id>https://support.brandsupply.fr/welke-betaalmethoden-biedt-brandsupply.html</id>
             <category term="Financier"/>
             <category term="Clients"/>
 
@@ -66,8 +66,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html"/>
-        <id>https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html</id>
+        <link href="https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html"/>
+        <id>https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html</id>
             <category term="Financier"/>
             <category term="Clients"/>
 
@@ -81,7 +81,7 @@
             <![CDATA[
                 <p>Si un client n'est pas satisfait à la fin de la période du concours, il peut, sans donner de raison, clôturer le concours sans sélectionner de gagnant. Dans ce cas, le client n'a pas à payer d'award ni de frais de succès.</p>
 <p>Nous avons entièrement confiance que les designers proposeront un bon design, mais nous ne sommes satisfaits que lorsque le client l'est aussi !</p>
-<p>La garantie « no cure no pay » ne s'applique pas aux concours <a href="https://brandsupply.github.io/supportFR/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">garantis</a>. Dans ce cas, le montant total est payé à l'avance et n'est pas remboursé. Le client est alors tenu de sélectionner un gagnant.</p>
+<p>La garantie « no cure no pay » ne s'applique pas aux concours <a href="https://support.brandsupply.fr/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">garantis</a>. Dans ce cas, le montant total est payé à l'avance et n'est pas remboursé. Le client est alors tenu de sélectionner un gagnant.</p>
             ]]>
         </content>
     </entry>
@@ -90,8 +90,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html"/>
-        <id>https://brandsupply.github.io/supportFR/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html</id>
+        <link href="https://support.brandsupply.fr/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html"/>
+        <id>https://support.brandsupply.fr/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html</id>
             <category term="Financier"/>
             <category term="Clients"/>
 
@@ -103,13 +103,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>En tant que client, vous avez le choix, au début de votre concours, entre un concours non garanti (<a href="https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html" title="Que signifie exactement " no="" cure="" pay="">no cure no pay</a>!) ou un concours garanti.</p>
+                <p>En tant que client, vous avez le choix, au début de votre concours, entre un concours non garanti (<a href="https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html" title="Que signifie exactement " no="" cure="" pay="">no cure no pay</a>!) ou un concours garanti.</p>
 <p>Pour un concours garanti, vous payez la totalité du montant avant le début du concours.</p>
 <p>Pour un concours non garanti, les frais de publication sont payés au moment de la mise en ligne du concours.</p>
 <p>Lorsque le client choisit un gagnant, l'award et les frais de succès sont facturés. Pas de gagnant ? Alors, il n'y a pas de frais d'award ni de frais de succès à payer !</p>
 <p>L'award n'est pas immédiatement versé au designer. Le designer reçoit d'abord un message automatique lui demandant de transférer les fichiers via le lien fourni par Brandsupply. Le client est ensuite invité à approuver ces fichiers. Une fois les fichiers correctement reçus, Brandsupply paiera le designer.</p>
 <p>C'est un processus automatisé.</p>
-<p><strong><a href="https://brandsupply.github.io/supportFR/wat-gebeurt-er-als-een-wedstrijd-afloopt.html" title="Wat gebeurt er als een wedstrijd afloopt?">Que se passe-t-il à la fin d'un concours?</a></strong></p>
+<p><strong><a href="https://support.brandsupply.fr/wat-gebeurt-er-als-een-wedstrijd-afloopt.html" title="Wat gebeurt er als een wedstrijd afloopt?">Que se passe-t-il à la fin d'un concours?</a></strong></p>
             ]]>
         </content>
     </entry>
@@ -118,8 +118,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/hoeveel-kost-een-wedstrijd-me.html"/>
-        <id>https://brandsupply.github.io/supportFR/hoeveel-kost-een-wedstrijd-me.html</id>
+        <link href="https://support.brandsupply.fr/hoeveel-kost-een-wedstrijd-me.html"/>
+        <id>https://support.brandsupply.fr/hoeveel-kost-een-wedstrijd-me.html</id>
             <category term="Financier"/>
             <category term="Clients"/>
 
@@ -139,7 +139,7 @@
 <li>Les frais de succès sont payés par le client une fois que le concours est terminé avec succès.</li>
 </ul>
 <p>Pour aider les clients à démarrer, Brandsupply propose trois forfaits par catégorie de design : bronze, argent et or. Tout est clairement présenté sur la <a href="https://www.brandsupply.fr/tarifs" title="Brandsupply Tarifs" target="_blank" rel="noopener noreferrer">page des prix</a>.</p>
-<p><a href="https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html" title="Que signifie exactement " no="" cure="" pay="">No cure no pay</a>! Nous ne sommes satisfaits que lorsque le client l’est. Le client peut clôturer un concours à la fin de la période sans sélectionner de gagnant. Dans ce cas, il n'aura à payer ni award ni frais de succès, seulement les frais de publication.</p>
+<p><a href="https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html" title="Que signifie exactement " no="" cure="" pay="">No cure no pay</a>! Nous ne sommes satisfaits que lorsque le client l’est. Le client peut clôturer un concours à la fin de la période sans sélectionner de gagnant. Dans ce cas, il n'aura à payer ni award ni frais de succès, seulement les frais de publication.</p>
             ]]>
         </content>
     </entry>
@@ -148,8 +148,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/waar-vind-ik-mijn-factuur.html"/>
-        <id>https://brandsupply.github.io/supportFR/waar-vind-ik-mijn-factuur.html</id>
+        <link href="https://support.brandsupply.fr/waar-vind-ik-mijn-factuur.html"/>
+        <id>https://support.brandsupply.fr/waar-vind-ik-mijn-factuur.html</id>
             <category term="Financier"/>
             <category term="Clients"/>
 
@@ -178,8 +178,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/hoe-werken-de-comments.html"/>
-        <id>https://brandsupply.github.io/supportFR/hoe-werken-de-comments.html</id>
+        <link href="https://support.brandsupply.fr/hoe-werken-de-comments.html"/>
+        <id>https://support.brandsupply.fr/hoe-werken-de-comments.html</id>
             <category term="Gérer le concours"/>
             <category term="Clients"/>
 
@@ -198,7 +198,7 @@
 <p>Les clients et les designers peuvent également s'envoyer des messages privés. Ces messages apparaissent dans la boîte de réception de votre profil MyBrandsupply.</p>
 <p>D'autres designers peuvent aussi laisser des commentaires sur les soumissions. Parfois, la perspective d'un autre designer peut également être intéressante pour le client.</p>
 <p>Brandsupply se réserve le droit de supprimer des commentaires si nécessaire.</p>
-<p><a href="https://brandsupply.github.io/supportFR/wat-betekenen-de-sterren-onder-de-inzendingen.html" title="Que signifient les étoiles sous les soumissions?">Que signifient les étoiles sous les soumissions?</a></p>
+<p><a href="https://support.brandsupply.fr/wat-betekenen-de-sterren-onder-de-inzendingen.html" title="Que signifient les étoiles sous les soumissions?">Que signifient les étoiles sous les soumissions?</a></p>
             ]]>
         </content>
     </entry>
@@ -207,8 +207,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/wat-betekenen-de-sterren-onder-de-inzendingen.html"/>
-        <id>https://brandsupply.github.io/supportFR/wat-betekenen-de-sterren-onder-de-inzendingen.html</id>
+        <link href="https://support.brandsupply.fr/wat-betekenen-de-sterren-onder-de-inzendingen.html"/>
+        <id>https://support.brandsupply.fr/wat-betekenen-de-sterren-onder-de-inzendingen.html</id>
             <category term="Gérer le concours"/>
             <category term="Clients"/>
 
@@ -233,8 +233,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html"/>
-        <id>https://brandsupply.github.io/supportFR/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html</id>
+        <link href="https://support.brandsupply.fr/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html"/>
+        <id>https://support.brandsupply.fr/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html</id>
             <category term="Gérer le concours"/>
             <category term="Clients"/>
 
@@ -267,8 +267,8 @@
         <author>
             <name>Matt</name>
         </author>
-        <link href="https://brandsupply.github.io/supportFR/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html"/>
-        <id>https://brandsupply.github.io/supportFR/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html</id>
+        <link href="https://support.brandsupply.fr/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html"/>
+        <id>https://support.brandsupply.fr/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html</id>
             <category term="Clôturer le concours"/>
             <category term="Clients"/>
 
@@ -282,9 +282,9 @@
             <![CDATA[
                 <p>Le client choisit également la durée du concours au début de celui-ci. Une fois le concours terminé, il est temps de choisir un gagnant. Nous demandons au client de sélectionner un gagnant dans un délai d'une semaine.</p>
 <p>La plupart des clients peuvent décider rapidement, car ils ont suivi attentivement le concours et ont donné des retours aux designers. En général, à la fin du concours, il est déjà clair quels designs sont les favoris. Certains clients peuvent avoir besoin de plus de temps, par exemple pour consulter leur équipe.</p>
-<p>Il peut arriver que le client ne soit pas encore 100 % convaincu par les soumissions au moment où le concours se termine. Dans ce cas, les clients peuvent <a href="https://brandsupply.github.io/supportFR/hoe-kan-ik-mijn-wedstrijd-verlengen.html" title="Hoe kan ik mijn wedstrijd verlengen?">prolonger</a> le concours d'une semaine.</p>
+<p>Il peut arriver que le client ne soit pas encore 100 % convaincu par les soumissions au moment où le concours se termine. Dans ce cas, les clients peuvent <a href="https://support.brandsupply.fr/hoe-kan-ik-mijn-wedstrijd-verlengen.html" title="Hoe kan ik mijn wedstrijd verlengen?">prolonger</a> le concours d'une semaine.</p>
 <p>Le client n'est pas obligé de choisir un gagnant et peut clôturer le concours sans sélection si aucun design ne convient. Nous faisons confiance à nos designers et constatons que cela arrive très rarement.</p>
-<p>En revanche, le client est tenu de choisir un gagnant s'il a opté pour un <a href="https://brandsupply.github.io/supportFR/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">concours garanti</a>.</p>
+<p>En revanche, le client est tenu de choisir un gagnant s'il a opté pour un <a href="https://support.brandsupply.fr/wat-is-een-gegarandeerde-wedstrijd.html" title="Wat is een gegarandeerde wedstrijd?">concours garanti</a>.</p>
             ]]>
         </content>
     </entry>

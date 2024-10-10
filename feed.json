@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Brandsupply Support FR",
     "description": "",
-    "home_page_url": "https://brandsupply.github.io/supportFR",
-    "feed_url": "https://brandsupply.github.io/supportFR/feed.json",
+    "home_page_url": "https://support.brandsupply.fr",
+    "feed_url": "https://support.brandsupply.fr/feed.json",
     "user_comment": "",
-    "icon": "https://brandsupply.github.io/supportFR/media/website/logo.png",
+    "icon": "https://support.brandsupply.fr/media/website/logo.png",
     "author": {
         "name": "Matt"
     },
     "items": [
         {
-            "id": "https://brandsupply.github.io/supportFR/hoe-zit-het-met-belasting.html",
-            "url": "https://brandsupply.github.io/supportFR/hoe-zit-het-met-belasting.html",
+            "id": "https://support.brandsupply.fr/hoe-zit-het-met-belasting.html",
+            "url": "https://support.brandsupply.fr/hoe-zit-het-met-belasting.html",
             "title": "Qu&#x27;en est-il des impôts?",
             "summary": "Chaque utilisateur est seul responsable de la déclaration et, si nécessaire, du paiement des impôts tels que l'impôt sur le revenu ou la TVA, ainsi&hellip;",
             "content_html": "<p>Chaque utilisateur est seul responsable de la déclaration et, si nécessaire, du paiement des impôts tels que l'impôt sur le revenu ou la TVA, ainsi que du respect d'autres obligations légales.</p>",
@@ -27,8 +27,8 @@
             "date_modified": "2024-10-09T11:53:14+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/welke-betaalmethoden-biedt-brandsupply.html",
-            "url": "https://brandsupply.github.io/supportFR/welke-betaalmethoden-biedt-brandsupply.html",
+            "id": "https://support.brandsupply.fr/welke-betaalmethoden-biedt-brandsupply.html",
+            "url": "https://support.brandsupply.fr/welke-betaalmethoden-biedt-brandsupply.html",
             "title": "Quelles sont les méthodes de paiement proposées par Brandsupply?",
             "summary": "Brandsupply travaille avec un prestataire de services de paiement renommé pour traiter tous les paiements en toute sécurité. Dans le logiciel actuel, quatre options de&hellip;",
             "content_html": "<p>Brandsupply travaille avec un prestataire de services de paiement renommé pour traiter tous les paiements en toute sécurité.</p>\n<p>Dans le logiciel actuel, quatre options de paiement sont disponibles, couvrant presque toutes les transactions nationales et internationales:</p>\n<ol>\n<li>IDEAL</li>\n<li>Carte de crédit Mastercard</li>\n<li>Carte de crédit VISA</li>\n<li>Paypal</li>\n</ol>\n<p> </p>",
@@ -43,11 +43,11 @@
             "date_modified": "2024-10-09T11:54:45+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html",
-            "url": "https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html",
+            "id": "https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html",
+            "url": "https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html",
             "title": "Que signifie exactement &quot;no cure no pay&quot;?",
             "summary": "Si un client n'est pas satisfait à la fin de la période du concours, il peut, sans donner de raison, clôturer le concours sans sélectionner&hellip;",
-            "content_html": "<p>Si un client n'est pas satisfait à la fin de la période du concours, il peut, sans donner de raison, clôturer le concours sans sélectionner de gagnant. Dans ce cas, le client n'a pas à payer d'award ni de frais de succès.</p>\n<p>Nous avons entièrement confiance que les designers proposeront un bon design, mais nous ne sommes satisfaits que lorsque le client l'est aussi !</p>\n<p>La garantie « no cure no pay » ne s'applique pas aux concours <a href=\"https://brandsupply.github.io/supportFR/wat-is-een-gegarandeerde-wedstrijd.html\" title=\"Wat is een gegarandeerde wedstrijd?\">garantis</a>. Dans ce cas, le montant total est payé à l'avance et n'est pas remboursé. Le client est alors tenu de sélectionner un gagnant.</p>",
+            "content_html": "<p>Si un client n'est pas satisfait à la fin de la période du concours, il peut, sans donner de raison, clôturer le concours sans sélectionner de gagnant. Dans ce cas, le client n'a pas à payer d'award ni de frais de succès.</p>\n<p>Nous avons entièrement confiance que les designers proposeront un bon design, mais nous ne sommes satisfaits que lorsque le client l'est aussi !</p>\n<p>La garantie « no cure no pay » ne s'applique pas aux concours <a href=\"https://support.brandsupply.fr/wat-is-een-gegarandeerde-wedstrijd.html\" title=\"Wat is een gegarandeerde wedstrijd?\">garantis</a>. Dans ce cas, le montant total est payé à l'avance et n'est pas remboursé. Le client est alors tenu de sélectionner un gagnant.</p>",
             "author": {
                 "name": "Matt"
             },
@@ -59,11 +59,11 @@
             "date_modified": "2024-10-09T11:57:45+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html",
-            "url": "https://brandsupply.github.io/supportFR/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html",
+            "id": "https://support.brandsupply.fr/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html",
+            "url": "https://support.brandsupply.fr/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html",
             "title": "Je suis un client, quand dois-je payer quoi?",
             "summary": "En tant que client, vous avez le choix, au début de votre concours, entre un concours non garanti (no cure no pay!) ou un concours&hellip;",
-            "content_html": "<p>En tant que client, vous avez le choix, au début de votre concours, entre un concours non garanti (<a href=\"https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html\" title=\"Que signifie exactement \" no=\"\" cure=\"\" pay=\"\">no cure no pay</a>!) ou un concours garanti.</p>\n<p>Pour un concours garanti, vous payez la totalité du montant avant le début du concours.</p>\n<p>Pour un concours non garanti, les frais de publication sont payés au moment de la mise en ligne du concours.</p>\n<p>Lorsque le client choisit un gagnant, l'award et les frais de succès sont facturés. Pas de gagnant ? Alors, il n'y a pas de frais d'award ni de frais de succès à payer !</p>\n<p>L'award n'est pas immédiatement versé au designer. Le designer reçoit d'abord un message automatique lui demandant de transférer les fichiers via le lien fourni par Brandsupply. Le client est ensuite invité à approuver ces fichiers. Une fois les fichiers correctement reçus, Brandsupply paiera le designer.</p>\n<p>C'est un processus automatisé.</p>\n<p><strong><a href=\"https://brandsupply.github.io/supportFR/wat-gebeurt-er-als-een-wedstrijd-afloopt.html\" title=\"Wat gebeurt er als een wedstrijd afloopt?\">Que se passe-t-il à la fin d'un concours?</a></strong></p>",
+            "content_html": "<p>En tant que client, vous avez le choix, au début de votre concours, entre un concours non garanti (<a href=\"https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html\" title=\"Que signifie exactement \" no=\"\" cure=\"\" pay=\"\">no cure no pay</a>!) ou un concours garanti.</p>\n<p>Pour un concours garanti, vous payez la totalité du montant avant le début du concours.</p>\n<p>Pour un concours non garanti, les frais de publication sont payés au moment de la mise en ligne du concours.</p>\n<p>Lorsque le client choisit un gagnant, l'award et les frais de succès sont facturés. Pas de gagnant ? Alors, il n'y a pas de frais d'award ni de frais de succès à payer !</p>\n<p>L'award n'est pas immédiatement versé au designer. Le designer reçoit d'abord un message automatique lui demandant de transférer les fichiers via le lien fourni par Brandsupply. Le client est ensuite invité à approuver ces fichiers. Une fois les fichiers correctement reçus, Brandsupply paiera le designer.</p>\n<p>C'est un processus automatisé.</p>\n<p><strong><a href=\"https://support.brandsupply.fr/wat-gebeurt-er-als-een-wedstrijd-afloopt.html\" title=\"Wat gebeurt er als een wedstrijd afloopt?\">Que se passe-t-il à la fin d'un concours?</a></strong></p>",
             "author": {
                 "name": "Matt"
             },
@@ -75,11 +75,11 @@
             "date_modified": "2024-10-09T11:59:52+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/hoeveel-kost-een-wedstrijd-me.html",
-            "url": "https://brandsupply.github.io/supportFR/hoeveel-kost-een-wedstrijd-me.html",
+            "id": "https://support.brandsupply.fr/hoeveel-kost-een-wedstrijd-me.html",
+            "url": "https://support.brandsupply.fr/hoeveel-kost-een-wedstrijd-me.html",
             "title": "Combien me coûte un concours?",
             "summary": "C’est ce qui rend Brandsupply unique ! En fonction du budget disponible, le client peut lui-même déterminer le prix d’un concours. Les coûts pour le&hellip;",
-            "content_html": "<p>C’est ce qui rend Brandsupply unique ! En fonction du budget disponible, le client peut lui-même déterminer le prix d’un concours.</p>\n<p>Les coûts pour le client se décomposent en trois parties:</p>\n<ul>\n<li>Les frais de publication sont payés par le client pour l’ouverture d’un concours.</li>\n<li>L'award est la récompense qui sera finalement attribuée au designer gagnant.</li>\n<li>Les frais de succès sont payés par le client une fois que le concours est terminé avec succès.</li>\n</ul>\n<p>Pour aider les clients à démarrer, Brandsupply propose trois forfaits par catégorie de design : bronze, argent et or. Tout est clairement présenté sur la <a href=\"https://www.brandsupply.fr/tarifs\" title=\"Brandsupply Tarifs\" target=\"_blank\" rel=\"noopener noreferrer\">page des prix</a>.</p>\n<p><a href=\"https://brandsupply.github.io/supportFR/wat-betekent-no-cure-no-pay-precies.html\" title=\"Que signifie exactement \" no=\"\" cure=\"\" pay=\"\">No cure no pay</a>! Nous ne sommes satisfaits que lorsque le client l’est. Le client peut clôturer un concours à la fin de la période sans sélectionner de gagnant. Dans ce cas, il n'aura à payer ni award ni frais de succès, seulement les frais de publication.</p>",
+            "content_html": "<p>C’est ce qui rend Brandsupply unique ! En fonction du budget disponible, le client peut lui-même déterminer le prix d’un concours.</p>\n<p>Les coûts pour le client se décomposent en trois parties:</p>\n<ul>\n<li>Les frais de publication sont payés par le client pour l’ouverture d’un concours.</li>\n<li>L'award est la récompense qui sera finalement attribuée au designer gagnant.</li>\n<li>Les frais de succès sont payés par le client une fois que le concours est terminé avec succès.</li>\n</ul>\n<p>Pour aider les clients à démarrer, Brandsupply propose trois forfaits par catégorie de design : bronze, argent et or. Tout est clairement présenté sur la <a href=\"https://www.brandsupply.fr/tarifs\" title=\"Brandsupply Tarifs\" target=\"_blank\" rel=\"noopener noreferrer\">page des prix</a>.</p>\n<p><a href=\"https://support.brandsupply.fr/wat-betekent-no-cure-no-pay-precies.html\" title=\"Que signifie exactement \" no=\"\" cure=\"\" pay=\"\">No cure no pay</a>! Nous ne sommes satisfaits que lorsque le client l’est. Le client peut clôturer un concours à la fin de la période sans sélectionner de gagnant. Dans ce cas, il n'aura à payer ni award ni frais de succès, seulement les frais de publication.</p>",
             "author": {
                 "name": "Matt"
             },
@@ -91,8 +91,8 @@
             "date_modified": "2024-10-09T12:03:03+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/waar-vind-ik-mijn-factuur.html",
-            "url": "https://brandsupply.github.io/supportFR/waar-vind-ik-mijn-factuur.html",
+            "id": "https://support.brandsupply.fr/waar-vind-ik-mijn-factuur.html",
+            "url": "https://support.brandsupply.fr/waar-vind-ik-mijn-factuur.html",
             "title": "Où puis-je trouver ma facture?",
             "summary": "Dans le cas d’un concours non garanti réussi, le client a deux moments de paiement : lors de la publication du concours et lors de&hellip;",
             "content_html": "<section class=\"article-info\">\n<div class=\"article-content\">\n<div class=\"article-body\">\n<p>Dans le cas d’un concours non garanti réussi, le client a deux moments de paiement : lors de la publication du concours et lors de la sélection d’un gagnant.</p>\n<p>Les factures sont envoyées en pièce jointe avec les e-mails de confirmation lors de la publication du concours et de la sélection d’un gagnant.</p>\n<p>Dans le cas d’un concours garanti, il n’y a qu’un seul moment de paiement. La facture est alors jointe à l’e-mail de confirmation du lancement du concours.</p>\n</div>\n</div>\n</section>",
@@ -107,11 +107,11 @@
             "date_modified": "2024-10-09T12:04:10+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/hoe-werken-de-comments.html",
-            "url": "https://brandsupply.github.io/supportFR/hoe-werken-de-comments.html",
+            "id": "https://support.brandsupply.fr/hoe-werken-de-comments.html",
+            "url": "https://support.brandsupply.fr/hoe-werken-de-comments.html",
             "title": "Comment fonctionnent les commentaires?",
             "summary": "Nous considérons qu'il est important que les clients et les designers échangent sur les créations pendant le concours. L'un des moyens les plus importants pour&hellip;",
-            "content_html": "<p>Nous considérons qu'il est important que les clients et les designers échangent sur les créations pendant le concours.</p>\n<p>L'un des moyens les plus importants pour y parvenir est de laisser des commentaires sur les soumissions.</p>\n<p>Les clients peuvent indiquer ce qu'ils apprécient dans le design et ce qu'ils souhaiteraient éventuellement voir modifié. Les designers peuvent ensuite répondre. Cela peut concerner tous les aspects du design : couleurs, formes, petits détails ou encore la composition générale. Plus le designer a d'informations, mieux c'est!</p>\n<p>Les commentaires sont visibles par tous ceux qui ont accès au concours, en fonction des paramètres choisis par le client au début du concours.</p>\n<p>Les clients et les designers peuvent également s'envoyer des messages privés. Ces messages apparaissent dans la boîte de réception de votre profil MyBrandsupply.</p>\n<p>D'autres designers peuvent aussi laisser des commentaires sur les soumissions. Parfois, la perspective d'un autre designer peut également être intéressante pour le client.</p>\n<p>Brandsupply se réserve le droit de supprimer des commentaires si nécessaire.</p>\n<p><a href=\"https://brandsupply.github.io/supportFR/wat-betekenen-de-sterren-onder-de-inzendingen.html\" title=\"Que signifient les étoiles sous les soumissions?\">Que signifient les étoiles sous les soumissions?</a></p>",
+            "content_html": "<p>Nous considérons qu'il est important que les clients et les designers échangent sur les créations pendant le concours.</p>\n<p>L'un des moyens les plus importants pour y parvenir est de laisser des commentaires sur les soumissions.</p>\n<p>Les clients peuvent indiquer ce qu'ils apprécient dans le design et ce qu'ils souhaiteraient éventuellement voir modifié. Les designers peuvent ensuite répondre. Cela peut concerner tous les aspects du design : couleurs, formes, petits détails ou encore la composition générale. Plus le designer a d'informations, mieux c'est!</p>\n<p>Les commentaires sont visibles par tous ceux qui ont accès au concours, en fonction des paramètres choisis par le client au début du concours.</p>\n<p>Les clients et les designers peuvent également s'envoyer des messages privés. Ces messages apparaissent dans la boîte de réception de votre profil MyBrandsupply.</p>\n<p>D'autres designers peuvent aussi laisser des commentaires sur les soumissions. Parfois, la perspective d'un autre designer peut également être intéressante pour le client.</p>\n<p>Brandsupply se réserve le droit de supprimer des commentaires si nécessaire.</p>\n<p><a href=\"https://support.brandsupply.fr/wat-betekenen-de-sterren-onder-de-inzendingen.html\" title=\"Que signifient les étoiles sous les soumissions?\">Que signifient les étoiles sous les soumissions?</a></p>",
             "author": {
                 "name": "Matt"
             },
@@ -123,8 +123,8 @@
             "date_modified": "2024-10-09T12:08:38+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/wat-betekenen-de-sterren-onder-de-inzendingen.html",
-            "url": "https://brandsupply.github.io/supportFR/wat-betekenen-de-sterren-onder-de-inzendingen.html",
+            "id": "https://support.brandsupply.fr/wat-betekenen-de-sterren-onder-de-inzendingen.html",
+            "url": "https://support.brandsupply.fr/wat-betekenen-de-sterren-onder-de-inzendingen.html",
             "title": "Que signifient les étoiles sous les soumissions?",
             "summary": "Nous considérons qu'il est important que, pendant le concours, les clients et les designers échangent à propos des créations. C'est pourquoi nous offrons la possibilité&hellip;",
             "content_html": "<p>Nous considérons qu'il est important que, pendant le concours, les clients et les designers échangent à propos des créations. C'est pourquoi nous offrons la possibilité de donner des retours, soit par des commentaires écrits, soit en attribuant des étoiles.</p>\n<p>Les étoiles constituent un système de notation sur une échelle de 1 à 5. Cinq étoiles étant bien sûr la meilleure note qu'un client puisse attribuer à un design.</p>\n<p>Il n'est pas toujours facile de décrire précisément ce qu'un client recherche dans un design, surtout dans le cadre d'un concours. C'est d'ailleurs pour cette raison qu'il fait appel à des designers !</p>\n<p>La notation est une manière intuitive pour le client d'indiquer quels designs lui plaisent. Cela permet au client d'orienter le processus de création des designers, qui peuvent alors affiner leur travail en fonction des attentes du client.</p>\n<p>Brandsupply veille au respect de l'originalité des soumissions. Si nous estimons qu'une copie a été faite, nous nous réservons le droit de supprimer la contribution concernée.</p>",
@@ -139,8 +139,8 @@
             "date_modified": "2024-10-09T12:07:39+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html",
-            "url": "https://brandsupply.github.io/supportFR/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html",
+            "id": "https://support.brandsupply.fr/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html",
+            "url": "https://support.brandsupply.fr/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html",
             "title": "Originalité et droits d&#x27;auteur, conseils pour les clients",
             "summary": "Pour vous assurer de choisir un design original, nous avons établi des règles claires. Par exemple, l'utilisation de matériel de stock est interdite, tout comme&hellip;",
             "content_html": "<p>Pour vous assurer de choisir un design original, nous avons établi des règles claires. Par exemple, l'utilisation de matériel de stock est interdite, tout comme la copie de soumissions précédemment publiées.</p>\n<p>Nous nous engageons chaque jour à faire respecter ces règles. En tant que client, vous pouvez également jouer un rôle:</p>\n<ol>\n<li>\n<p>Suivez attentivement le concours. Cela vous permettra de voir quels designers soumettent des créations véritablement originales.</p>\n</li>\n<li>\n<p>Les participants peuvent déposer une plainte pour chaque soumission. La plainte sera examinée par nos soins. Il peut parfois arriver que des designers vous signalent une possible violation des droits d'auteur ou l'utilisation de matériel de stock : dans ce cas, contactez toujours notre service client. Nous prendrons les mesures appropriées si la plainte est fondée, mais nous voulons éviter les accusations infondées.</p>\n</li>\n<li>\n<p>Vous souhaitez vérifier qu'aucun matériel de stock n'a été utilisé ? En tant que client, vous pouvez effectuer une recherche d'image inversée pour voir si l'image se trouve ailleurs sur le web : via <a href=\"https://images.google.com/\" title=\"Google Images\" target=\"_blank\" rel=\"noopener noreferrer\">Google Images</a> (cliquez sur l'icône de photo : recherche par image) ou par exemple <a href=\"https://www.tineye.com/\" title=\"TinEye\" target=\"_blank\" rel=\"noopener noreferrer\">TinEye</a>.</p>\n</li>\n</ol>",
@@ -155,11 +155,11 @@
             "date_modified": "2024-10-09T12:10:41+02:00"
         },
         {
-            "id": "https://brandsupply.github.io/supportFR/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html",
-            "url": "https://brandsupply.github.io/supportFR/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html",
+            "id": "https://support.brandsupply.fr/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html",
+            "url": "https://support.brandsupply.fr/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html",
             "title": "Combien de temps ai-je, en tant que client, pour choisir un gagnant?",
             "summary": "Le client choisit également la durée du concours au début de celui-ci. Une fois le concours terminé, il est temps de choisir un gagnant. Nous&hellip;",
-            "content_html": "<p>Le client choisit également la durée du concours au début de celui-ci. Une fois le concours terminé, il est temps de choisir un gagnant. Nous demandons au client de sélectionner un gagnant dans un délai d'une semaine.</p>\n<p>La plupart des clients peuvent décider rapidement, car ils ont suivi attentivement le concours et ont donné des retours aux designers. En général, à la fin du concours, il est déjà clair quels designs sont les favoris. Certains clients peuvent avoir besoin de plus de temps, par exemple pour consulter leur équipe.</p>\n<p>Il peut arriver que le client ne soit pas encore 100 % convaincu par les soumissions au moment où le concours se termine. Dans ce cas, les clients peuvent <a href=\"https://brandsupply.github.io/supportFR/hoe-kan-ik-mijn-wedstrijd-verlengen.html\" title=\"Hoe kan ik mijn wedstrijd verlengen?\">prolonger</a> le concours d'une semaine.</p>\n<p>Le client n'est pas obligé de choisir un gagnant et peut clôturer le concours sans sélection si aucun design ne convient. Nous faisons confiance à nos designers et constatons que cela arrive très rarement.</p>\n<p>En revanche, le client est tenu de choisir un gagnant s'il a opté pour un <a href=\"https://brandsupply.github.io/supportFR/wat-is-een-gegarandeerde-wedstrijd.html\" title=\"Wat is een gegarandeerde wedstrijd?\">concours garanti</a>.</p>",
+            "content_html": "<p>Le client choisit également la durée du concours au début de celui-ci. Une fois le concours terminé, il est temps de choisir un gagnant. Nous demandons au client de sélectionner un gagnant dans un délai d'une semaine.</p>\n<p>La plupart des clients peuvent décider rapidement, car ils ont suivi attentivement le concours et ont donné des retours aux designers. En général, à la fin du concours, il est déjà clair quels designs sont les favoris. Certains clients peuvent avoir besoin de plus de temps, par exemple pour consulter leur équipe.</p>\n<p>Il peut arriver que le client ne soit pas encore 100 % convaincu par les soumissions au moment où le concours se termine. Dans ce cas, les clients peuvent <a href=\"https://support.brandsupply.fr/hoe-kan-ik-mijn-wedstrijd-verlengen.html\" title=\"Hoe kan ik mijn wedstrijd verlengen?\">prolonger</a> le concours d'une semaine.</p>\n<p>Le client n'est pas obligé de choisir un gagnant et peut clôturer le concours sans sélection si aucun design ne convient. Nous faisons confiance à nos designers et constatons que cela arrive très rarement.</p>\n<p>En revanche, le client est tenu de choisir un gagnant s'il a opté pour un <a href=\"https://support.brandsupply.fr/wat-is-een-gegarandeerde-wedstrijd.html\" title=\"Wat is een gegarandeerde wedstrijd?\">concours garanti</a>.</p>",
             "author": {
                 "name": "Matt"
             },
